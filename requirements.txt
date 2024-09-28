@@ -1,0 +1,4 @@
+llama_index==0.10.65
+mistralai==1.0.1
+pandas==2.2.2
+pandasql==0.7.3

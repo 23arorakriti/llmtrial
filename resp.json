@@ -1,0 +1,23 @@
+[
+    {
+        "Function": "cancer_results",
+        "Result": {
+            "summary": {
+                "0": "The misconception highlighted in the text is that people who die from cancer are \"losers.\"",
+                "1": "The misconception highlighted in the text is: \"Naturally we all change with age.\" While aging can bring about changes, the significant changes the person is experiencing are primarily due to the impact of cancer and its treatment, not merely the natural process of aging.",
+                "2": "The misconception is: \"I should be happy.\"",
+                "3": "The misconception is that having minimal side effects and symptoms makes the cancer experience \"easy\" or like \"hitting the cancer lottery.\"",
+                "4": "The misconception is: \"According to what I read on the pet scan results they are estimating it started back in 2016.\"",
+                "5": "The misconception is that the changes in medication effects, taste, and smell are solely due to treatment, while it could also be due to other factors or a combination of factors related to the individual's overall health and recovery process."
+            },
+            "links": {
+                "0": "https://www.reddit.com/r/cancer/comments/1eeafbu/i_hate_the_culture_surrounding_cancer/",
+                "1": "https://www.reddit.com/r/cancer/comments/1eimcyo/has_cancer_changed_you/",
+                "2": "https://www.reddit.com/r/cancer/comments/1ecn2wh/i_survived_now_cancer_ghosting_is_killing_me/",
+                "3": "https://www.reddit.com/r/cancer/comments/1ehqhcs/cancer_lottery/",
+                "4": "https://www.reddit.com/r/cancer/comments/1efxjrr/lung_cancer/",
+                "5": "https://www.reddit.com/r/cancer/comments/1eb644h/why_does_cancer_treatment_seem_to_completely/"
+            }
+        }
+    }
+]

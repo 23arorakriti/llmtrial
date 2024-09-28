@@ -1,0 +1,151 @@
+Validation Summary
+"```json
+{
+  ""validations"": [
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text is the assumption that having a rare autoimmune disease like polymyositis-scleroderma (SSc-PM) automatically means having a significantly shorter life expectancy than the average person."",
+      ""summary"": ""While it's true that SSc-PM can be a serious and challenging condition, life expectancy can vary greatly depending on the severity of the symptoms, the effectiveness of treatment, and overall health. It's important to have regular medical check-ups and follow the advice of healthcare professionals. Overreacting or assuming the worst without proper medical information can lead to unnecessary fear and anxiety."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1eby3vl/i_have_a_rare_autoimmune_disease_and_im_lost/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text seems to be the doctor's assumption that the patient's symptoms do not meet the typical criteria for genetic testing for EDS and related CTD, despite the patient having a rare presentation of the diseases and experiencing significant pain and disability."",
+      ""summary"": ""The doctor may be overlooking the possibility of atypical presentations of these conditions and the potential benefits of genetic testing for the patient. It's important for doctors to consider individual patient circumstances and avoid making assumptions based on typical presentations."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1ee1iux/this_disease_doesnt_typically_present_this_way_so/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text is the assumption that the person's serious symptoms are being dismissed as anxiety by their physicians and parents."",
+      ""summary"": ""While it's important to consider mental health as a potential factor in a person's symptoms, it's also crucial to thoroughly investigate and rule out physical causes. It's not uncommon for patients to feel dismissed or misunderstood when their symptoms are not immediately explained, but it's essential to advocate for a comprehensive evaluation and treatment plan."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1e8v2oi/no_doctor_takes_me_seriously/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text is the belief that being on Prednisone for an autoimmune disease significantly limits dental options or disqualifies one from applying for dental grants."",
+      ""summary"": ""While Prednisone can have side effects that may affect dental health, it does not necessarily mean that dental grants are not an option. It would be important for the individual to research and inquire about specific grant eligibility criteria to determine if they qualify."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1ei5nf7/frustrated_about_my_teeth/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text seems to be the belief that managing pain and taking necessary medications for chronic illnesses like Ankylosing Spondylitis can be equated to wasting money or resources."",
+      ""summary"": ""The individual feels that by not expressing their pain or taking medication when needed, they can prevent their father from spending money on their healthcare expenses. This misconception may stem from a lack of understanding about the importance of proper pain management and healthcare for chronic illnesses, and the potential long-term consequences of not addressing pain and symptoms promptly."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1e8rsec/i_dont_tell_my_issues_anymore_bcs_i_feel_i_am/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text seems to be the belief that \""I can't outwork my autoimmune disease.\"" This implies that personal efforts or hard work can fully overcome or cure an autoimmune disease, which is not generally the case."",
+      ""summary"": ""Autoimmune diseases are complex conditions that often require medical treatment and management."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1ei0hhw/i_cant_recognise_myself_anymore/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text is the assumption that the undiagnosed condition causing the physical symptoms and limiting the individual's ability to engage in their favorite activities is directly related to trauma."",
+      ""summary"": ""While there can be a psychological component to physical health, there is no evidence provided or suggested in the text that trauma is the cause of the undiagnosed condition. It is important to consult with a healthcare professional for an accurate diagnosis and treatment options."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1e81lzn/does_trauma_in_the_subconscious_affect_chronic/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text seems to be related to the assumptions or beliefs about the availability and types of government assistance for medical expenses and financial hardships."",
+      ""summary"": ""The person expresses concern about not knowing what to apply for beyond SSI (Supplemental Security Income), implying that they believe SSI might be the only option available to them. However, in the U.S., there are various government programs and resources that provide financial assistance for medical expenses and other types of financial aid, such as Medicaid, Social Security Disability Insurance (SSDI), and Temporary Assistance for Needy Families (TANF). Therefore, the misconception or misunderstanding could be that the individual is not aware of the full range of government assistance options available to them."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1edlbmv/help/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text is the belief that the patient can't have a PICC line due to the reason that the doctor considers it as a procedure, and the nurses prefer a port over a PICC line."",
+      ""summary"": ""However, the suitability of a PICC line or a port depends on various factors such as the patient's medical condition, vein health, and the frequency and duration of the infusions, which should be discussed with the healthcare team. It's not accurate to assume that a PICC line is not an option based on personal preference or the belief that it's just a procedure."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1ecmzor/had_a_small_freak_out_at_the_infusion_center_cuz/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text seems to be that the doctor is turning down the genetic testing due to the patient not having the typical symptoms or extreme presentation of connective tissue disease and autoimmune conditions, despite the patient's assertion of a rare presentation and their willingness to pay out of pocket."",
+      ""summary"": ""This could imply that the doctor may be underestimating the complexity and variability of these conditions, and not fully considering the potential value of genetic testing even in atypical presentations."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1ee1iux/this_disease_doesnt_typically_present_this_way_so/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding highlighted in the text is that fibromyalgia originates in the brain, as opposed to being a disease of the immune system."",
+      ""summary"": ""The new study suggests that many of the symptoms in fibromyalgia syndrome are caused by antibodies increasing the activity of pain-sensing nerves throughout the body, indicating that fibromyalgia is more likely to be an autoimmune problem."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1eg65pu/a_bit_of_hope_for_fibro_patients/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text appears to be the assumption that the doctors do not know what they are doing due to the variety of diagnoses proposed and the frustration with the diagnostic process."",
+      ""summary"": ""While it's understandable to feel frustrated and uncertain, it's important to remember that diagnosing complex medical conditions can be a challenging process, often requiring multiple tests and specialists. It's not necessarily an indication of incompetence."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1eagy64/frustrated_and_confused/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text lies in the belief that mentioning her chronic illnesses might not be beneficial or even expected in nursing school, due to the fast-paced and competitive nature of the program."",
+      ""summary"": ""While it's true that nursing school can be challenging, open communication about health conditions can help in securing necessary accommodations or modifications, making the learning process more manageable and successful for the student. It's essential to clarify that while accommodations are not necessarily expected, they can be valuable resources to support individuals with health challenges in meeting educational requirements."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1e855pu/what_are_reasonable_accommodations_during_college/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text is the assumption that a person with a larger body weight necessarily requires more medication than someone with a smaller body weight."",
+      ""summary"": ""This belief is not supported by evidence and can lead to inappropriate dosing or denial of necessary medication based on weight rather than individual patient needs. It's important to note that medication dosage should be personalized based on each individual's body composition, weight, age, and response to treatment, among other factors."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1eer9rn/pain_management_wants_me_to_take_less_gabapentin/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text, if any, is not explicitly stated."",
+      ""summary"": ""The text primarily provides information about the Capitol Crawl and the importance of the Americans with Disabilities Act. It also mentions the personal experiences and admiration for disability advocates by the author, who is a type 1 diabetic. However, without additional context, it's challenging to identify a specific misconception or misunderstanding in the provided text."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1ecm82r/today_is_the_34th_anniversary_of_the_signing_of/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text is the doctor's belief that T3, T4, and anti-TPO tests are only necessary for patients whose TSH levels are extremely low or high, such as 40."",
+      ""summary"": ""However, these tests can also be important in diagnosing and monitoring thyroid conditions, even when TSH levels are within the normal range. The patient's persistent symptoms and medical history suggest that further testing might be beneficial."",
+      ""links"": ""https://www.reddit.com/r/ChronicIllness/comments/1ehq793/how_to_respond_when_your_doctor_says_your/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception in the statement is the use of \""nan.ONLY PROVIDE THE MISCONCEPTION OR THE MISUNDERSTANDING.\"" The \""nan\"" at the beginning of the sentence is not a grammatically correct or meaningful part of the sentence, and its inclusion may suggest a misunderstanding or misuse of language."",
+      ""summary"": ""The sentence should be written without the \""nan\"" for clarity and proper communication."",
+      ""links"": ""https://link.springer.com/article/10.1007/s43440-024-00629-x"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text is the possibility of rationing blood culture bottles and only allowing them for specific, pre-determined patients."",
+      ""summary"": ""This suggests that not all patients may have access to blood culture testing, which could potentially lead to delayed or incorrect diagnosis and treatment. However, the text does not provide enough context to confirm if this is an actual policy being considered or just a discussion during the CDC/IDSA Clinician Call."",
+      ""links"": ""https://www.reddit.com/r/medicine/comments/1eay5zq/severe_blood_culture_shortage/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding seems to be that the broker believes that a person with an autoimmune disease, specifically Undifferentiated Connective Tissue Disease that mimics Rheumatoid Arthritis and is well-managed with medication, will always be considered high risk or denied for life insurance, or that their premiums will be excessively high."",
+      ""summary"": ""This is not necessarily true. While having an autoimmune disease can impact one's life insurance eligibility and premiums, many factors are considered, including the severity of the disease, its control, age, lifestyle, and overall health. It's important to note that every insurance company has its own underwriting guidelines and may assess risk differently."",
+      ""links"": ""https://www.reddit.com/r/rheumatoid/comments/1eh3b4l/life_insurance/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text appears to be the belief that the rheumatologist will only focus on treating the symptoms in the hands first, as that's where the diagnosis of RA (Rheumatoid Arthritis) was made."",
+      ""summary"": ""This is not necessarily true. RA is a systemic disease, meaning it can affect multiple joints throughout the body. While the hands may be a starting point for treatment, the goal is usually to manage the disease as a whole and alleviate symptoms in all affected areas. It's important to have an open and clear communication with the healthcare provider to ensure a comprehensive treatment plan."",
+      ""links"": ""https://www.reddit.com/r/rheumatoid/comments/1eeqvhn/seeking_advice/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or potential misunderstanding in the text is the belief that vitamin D toxicity only becomes a concern when taking 30,000 IU or more."",
+      ""summary"": ""While it's true that very high doses can increase the risk of toxicity, the safe upper limit for vitamin D for adults is generally considered to be around 4,000 IU per day, according to many health organizations and authorities, including the U.S. Food and Drug Administration (FDA) and the European Food Safety Authority (EFSA). Therefore, taking more than 10,000 IU daily, as the author plans to do, could potentially increase the risk of vitamin D toxicity, even though they were advised by Dr. Berg in a video that toxicity is only a concern at 30,000 IU or higher. It's always important to consult with a healthcare provider before making significant changes to one's vitamin supplement regimen, especially when dealing with chronic conditions like rheumatoid arthritis (RA)."",
+      ""links"": ""https://www.reddit.com/r/rheumatoid/comments/1ehc6n0/vitamin_d_and_reduced_inflammationflare_up/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text seems to be that the healthcare providers are dismissing the patient's symptoms and test results due to his age and other factors."",
+      ""summary"": ""However, it's important to note that while age is a consideration in diagnosing rheumatoid arthritis, it is not the only factor. RA can affect people of all ages, and a patient's symptoms and test results are the primary indicators of the disease. It's not appropriate or fair for healthcare providers to make diagnoses based on assumptions or biases."",
+      ""links"": ""https://www.reddit.com/r/rheumatoid/comments/1ej8aso/help_with_obtaining_a_ra_diagnosis/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text lies in the statement, \""I keep being told by my Rheumatologist that it is the safest of the autoimmune meds.\"""",
+      ""summary"": ""While Plaquenil (hydroxychloroquine) is generally considered safe with few side effects, it is not necessarily the safest medication for all autoimmune disorders. The safety and effectiveness of a medication can vary greatly depending on the specific disease, individual patient's response, and other factors. It's important to have open and thorough discussions with healthcare providers about the benefits and risks of any medication."",
+      ""links"": ""https://www.reddit.com/r/rheumatoid/comments/1e9u9e9/plaquenil_and_side_effects/"",
+      ""header"": ""Autoimmune""
+    },
+    {
+      ""misconception"": ""The misconception or misunderstanding in the text is the potential belief that a negative result in all other blood tests implies that the RA diagnosis is not accurate or that the treatment approach is incorrect."",
+      ""summary"": ""However, inflammation markers like C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR) can still be elevated in RA, even if other autoantibodies like rheumatoid factor or antinuclear antibodies are not present, indicating active inflammation. Additionally, different medications may work better for different individuals, and the initial response to a medication does not always indicate its long-term effectiveness. It's important to continue working closely with a healthcare provider to find the most effective treatment plan."",
+      ""links"": ""https://www.reddit.com/r/rheumatoid/comments/1ehlbcv/anyone_with_similar_experiences/"",
+      ""header"": ""Autoimmune""
+    }
+  ]
+}
+```"
